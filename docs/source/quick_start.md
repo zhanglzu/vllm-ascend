@@ -41,6 +41,7 @@ Install MindIE Turbo for performance acceleration:
    :substitutions:
 pip install mindie_turbo==|pip_mindie_turbo_version|
 ```
+You will see log `MindIE Turbo is installed. vLLM inference will be accelerated with MindIE Turbo.` during vLLM service execution or script runs if installed successfully.
 
 ## Usage
 
